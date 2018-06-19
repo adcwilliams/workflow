@@ -20,7 +20,7 @@ program test_comp
 
   ! Set some initial values designed to produce a known result
   x = 5.2
-  y = 20.7
+  y = 20.9
   z = 0.0
 
   ! Perform the sample calculation and print out the answer.
